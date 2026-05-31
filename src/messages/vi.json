@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "title": "Nhà Xe Duy Hùng — Dịch vụ xe ghép liên tỉnh",
+    "description": "Dịch vụ xe ghép liên tỉnh uy tín, an toàn, tiện lợi. Đặt vé trực tuyến, bảng giá minh bạch."
+  },
+  "nav": {
+    "home": "Trang Chủ",
+    "vehicles": "Xe & Dịch Vụ",
+    "pricing": "Bảng Giá",
+    "booking": "Đặt Xe",
+    "contact": "Liên Hệ"
+  },
+  "hero": {
+    "badge": "Đặt xe nhanh",
+    "confirm": "Xác nhận trong 15 phút • Đón tận nơi",
+    "cta": "Đặt Xe Ngay"
+  },
+  "whyUs": {
+    "label": "Về chúng tôi",
+    "title": "Tại sao chọn chúng tôi",
+    "items": [
+      {
+        "num": "01",
+        "title": "AN TOÀN",
+        "desc": "Tài xế kinh nghiệm, xe kiểm định định kỳ, giám sát hành trình mỗi chuyến."
+      },
+      {
+        "num": "02",
+        "title": "ĐÚNG GIỜ",
+        "desc": "Cam kết đúng giờ, không để bạn chờ đợi."
+      },
+      {
+        "num": "03",
+        "title": "CAO CẤP",
+        "desc": "Xe đời mới, không gian sạch sẽ, tiện nghi trên mọi chặng đường."
+      },
+      {
+        "num": "04",
+        "title": "ĐÓN TRẢ TẬN NƠI",
+        "desc": "Linh hoạt nhiều điểm đón trả, thuận tiện cho bạn."
+      }
+    ]
+  },
+  "routes": {
+    "label": "Tuyến đường chính",
+    "title": "Tuyến đường",
+    "popularLabel": "TUYẾN PHỔ BIẾN",
+    "cta": "Đặt vé ngay →",
+    "trust": "An toàn – Uy tín – Chất lượng",
+    "stats": [
+      { "value": "120+", "label": "Chuyến mỗi ngày" },
+      { "value": "2–2.5h", "label": "Thời gian di chuyển" },
+      { "value": "100%", "label": "An toàn – Uy tín" }
+    ],
+    "list": [
+      { "from": "Huế", "to": "Đà Nẵng", "note": "Khởi hành mỗi ngày" },
+      { "from": "Huế", "to": "Hội An", "note": "Tiện lợi – Nhanh chóng" },
+      { "from": "Đà Nẵng", "to": "Hội An", "note": "Linh hoạt giờ chạy" }
+    ],
+    "modal": {
+      "title": "Đặt vé nhanh",
+      "routeLabel": "Tuyến đường",
+      "routePlaceholder": "-- Chọn tuyến --",
+      "nameLabel": "Họ và tên",
+      "namePlaceholder": "Nguyễn Văn A",
+      "phoneLabel": "Số điện thoại",
+      "phonePlaceholder": "0905 123 456",
+      "dateLabel": "Ngày đi",
+      "paxLabel": "Hành khách",
+      "paxUnit": "người",
+      "submit": "Xác nhận đặt vé",
+      "success": "Đã nhận thông tin! Nhà xe sẽ liên hệ trong 15 phút."
+    }
+  },
+  "vehicles": {
+    "label": "Đội xe",
+    "title": "Các xe trong đội",
+    "subtitle": "Xe đời mới, đầy đủ tiện nghi, bảo dưỡng định kỳ"
+  },
+  "pricing": {
+    "label": "Bảng giá",
+    "title": "Bảng giá chi tiết",
+    "subtitle": "Giá niêm yết rõ ràng, đã bao gồm phí nhiên liệu và cầu đường",
+    "empty": "Đang cập nhật bảng giá",
+    "emptyDesc": "Vui lòng liên hệ hotline để biết giá chi tiết"
+  },
+  "booking": {
+    "label": "Đặt vé",
+    "title": "Đặt vé tại đây",
+    "subtitle": "Điền thông tin bên dưới, nhà xe xác nhận trong 15 phút"
+  },
+  "testimonials": {
+    "label": "Đánh giá",
+    "title": "Khách hàng nói gì",
+    "items": [
+      {
+        "name": "Nguyễn Thanh Hà",
+        "location": "Huế",
+        "text": "Đặt xe lúc 10 giờ tối, 15 phút sau có người xác nhận. Sáng hôm sau tài xế đến đúng giờ, xe sạch sẽ. Đi từ Huế vào Đà Nẵng rất thoải mái."
+      },
+      {
+        "name": "Trần Minh Khoa",
+        "location": "Đà Nẵng",
+        "text": "Đã dùng dịch vụ 3 lần, lần nào cũng đúng giờ. Giá đúng như báo, không bị tính thêm gì cả. Sẽ tiếp tục ủng hộ."
+      },
+      {
+        "name": "Lê Thị Bích Ngọc",
+        "location": "Hội An",
+        "text": "Ra sân bay Đà Nẵng lúc 5 giờ sáng, tài xế vẫn đến đúng giờ. Cảm ơn nhà xe đã chu đáo."
+      },
+      {
+        "name": "Phạm Hoàng Nam",
+        "location": "Đà Nẵng",
+        "text": "Xe Limousine đi cực êm, ghế ngả thoải mái như ghế massage. Tài xế nói chuyện lịch sự, chạy xe rất điềm đạm, không phóng nhanh vượt ẩu."
+      },
+      {
+        "name": "Hoàng Thu Thảo",
+        "location": "Huế",
+        "text": "Nhà xe phục vụ rất chuyên nghiệp. Tôi thường xuyên đi chặng Huế - Đà Nẵng bằng xe ghép ở đây. Rất an tâm về thời gian và độ an toàn."
+      },
+      {
+        "name": "Đỗ Quốc Bảo",
+        "location": "Hội An",
+        "text": "Lần đầu đi xe ghép nhưng trải nghiệm rất tuyệt vời. Xe đón đúng điểm hẹn, sạch sẽ không có mùi hôi. Các bạn tổng đài tư vấn nhiệt tình."
+      },
+      {
+        "name": "Vũ Hoài Nam",
+        "location": "Quảng Bình",
+        "text": "Tôi đặt xe từ Huế ra Quảng Bình, xe chạy êm, điều hòa mát mẻ. Tài xế hỗ trợ khuân vác hành lý rất nhiệt tình. 10 điểm cho chất lượng."
+      }
+    ]
+  },
+  "faq": {
+    "label": "Hỏi & Đáp",
+    "title": "Hỏi đáp",
+    "items": [
+      {
+        "q": "Làm thế nào để đặt xe?",
+        "a": "Điền form đặt vé trên trang này hoặc gọi trực tiếp hotline. Nhà xe sẽ xác nhận trong vòng 15 phút."
+      },
+      {
+        "q": "Xe đón tại nhà hay phải ra điểm tập kết?",
+        "a": "Đón tận nơi theo địa chỉ bạn cung cấp — nhà, khách sạn, hay bất kỳ địa điểm nào trong thành phố."
+      },
+      {
+        "q": "Có thể hủy hoặc thay đổi giờ đi không?",
+        "a": "Có. Vui lòng báo trước ít nhất 2 tiếng qua hotline để nhà xe sắp xếp lại lịch trình."
+      },
+      {
+        "q": "Thanh toán như thế nào?",
+        "a": "Thanh toán tiền mặt sau khi đến nơi. Nhà xe không thu bất kỳ khoản đặt cọc nào khi đặt xe."
+      },
+      {
+        "q": "Xe có chỗ để hành lý lớn không?",
+        "a": "Tùy loại xe. Khi đặt, bạn có thể ghi chú số lượng và kích thước hành lý để nhà xe chọn xe phù hợp."
+      }
+    ]
+  },
+  "footer": {
+    "about": "Nhà Xe Duy Hùng",
+    "aboutDesc": "Dịch vụ xe ghép liên tỉnh uy tín, an toàn, tiện lợi. Chúng tôi cam kết mang đến trải nghiệm di chuyển thoải mái nhất cho quý khách.",
+    "contact": "Liên hệ",
+    "zalo": "Zalo",
+    "hours": "5:00 - 22:00 hàng ngày",
+    "social": "Kết nối",
+    "followUs": "Theo dõi chúng tôi trên mạng xã hội để cập nhật ưu đãi mới nhất",
+    "rights": "All rights reserved."
+  }
+}
